@@ -1,0 +1,41 @@
+.player-score {
+  display: table-cell;
+  padding: 0 5px;
+  text-align: center;
+  width: 10px;
+  min-width: 10px;
+  height: 10px;
+}
+
+.header-row {
+  background-color: #004569;
+}
+
+th:first-child {
+  text-align: left;
+  width: 100px;
+  padding-left: 10px;
+  display: table-cell;
+}
+
+th:last-child {
+  text-align: right;
+  padding-right: 10px;
+  width: 55px;
+  display: table-cell;
+}
+
+.even {
+  background-color: #004569;
+}
+
+.odd {
+  background-color: #00678B;
+}
+
+.league-date {
+  width: 30px;
+  transform: rotate(-90deg);
+  display: table-cell;
+  font-size: 10px;
+}

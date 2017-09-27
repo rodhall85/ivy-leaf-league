@@ -1,0 +1,67 @@
+[{
+  "player": "Daryl",
+  "results": [
+    {"date":"2017-01-01", "points":3},
+    {"date":"2017-01-22", "points":1}
+  ],
+  "points": 4,
+  "position": 1
+}, {
+  "player": "Rod",
+  "results": [
+    {"date":"2017-01-01", "points":1},
+    {"date":"2017-01-08", "points":3}
+  ],
+  "points": 4,
+  "position": 2
+}, {
+  "player": "Bonnie",
+  "results": [
+    {"date":"2017-01-01", "points":2},
+    {"date":"2017-01-08", "points":1}
+  ],
+  "points": 3,
+  "position": 3
+}, {
+  "player": "Twiggy",
+  "results": [
+    {"date":"2017-01-15", "points":3}
+  ],
+  "points": 3,
+  "position": 4
+}, {
+  "player": "Dave",
+  "results": [
+    {"date":"2017-01-22", "points":3}
+  ],
+  "points": 3,
+  "position": 5
+}, {
+  "player": "Graham",
+  "results": [
+    {"date":"2017-01-08", "points":2}
+  ],
+  "points": 2,
+  "position": 6
+}, {
+  "player": "Ash",
+  "results": [
+    {"date":"2017-01-15", "points":2}
+  ],
+  "points": 2,
+  "position": 7
+}, {
+  "player": "Paul",
+  "results": [
+    {"date":"2017-01-22", "points":2}
+  ],
+  "points": 2,
+  "position": 8
+}, {
+  "player": "Neil",
+  "results": [
+    {"date":"2017-01-15", "points":1}
+  ],
+  "points": 1,
+  "position": 9
+}]
